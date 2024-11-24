@@ -20,14 +20,6 @@ Bu proje, Titanic veri seti üzerinde yapılan bir analiz ve makine öğrenmesi 
    
 6. **Sonuçların Görselleştirilmesi:** Sonuçlar, modellerin karşılaştırmalı performanslarını görselleştirmek amacıyla barplot şeklinde sunulmuştur.
 
-### Kullanılan Kütüphaneler
-
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
 ### Model Sonuçları
 
 Her modelin başarı oranı görsel olarak karşılaştırılmıştır. 
@@ -57,13 +49,6 @@ This project involves analyzing the Titanic dataset and building machine learnin
 
 6. **Results Visualization:** The model results were compared visually using a barplot to show the performance of each model.
 
-### Libraries Used
-
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Scikit-learn
 ### Model Results
 
 Each model's performance results were visualized for comparison.
